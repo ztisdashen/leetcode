@@ -22,7 +22,7 @@ import java.util.List;
  *
  * 当我们填入了数字 xx 之后，我们要将上述的三个值都置为 \text{True}True，并且继续对下一个空白格位置进行递归。在回溯到当前递归层时，我们还要将上述的三个值重新置为 \text{False}False。
  *
- * 作者：LeetCode-Solution
+ * 作者：LeetCode-Solution51
  * 链接：https://leetcode-cn.com/problems/sudoku-solver/solution/jie-shu-du-by-leetcode-solution/
  * 来源：力扣（LeetCode）
  * 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
